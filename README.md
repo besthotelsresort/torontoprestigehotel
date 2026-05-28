@@ -1,0 +1,2 @@
+# torontoprestigehotel
+Static site: torontoprestigehotel
